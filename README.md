@@ -1,5 +1,7 @@
 ![Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=js5253&layout=compact)
-# Hola MundoI'm a software developer in the US. 
+# Hola Mundo
+
+I'm a software developer in the US. 
 
 ## Stuff I'm Interested In
 I've mostly dealt with web dev, although recently I've taken an interest in systems and embedded programming.
