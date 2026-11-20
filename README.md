@@ -1,5 +1,5 @@
-# ¡Hola Mundo!
-
+![Langs](https://github-readme-stats.vercel.app/api?username=js5253&show_icons=true)
+# Hola Mundo
 I'm a software developer in the US. 
 
 ## Stuff I'm Interested In
