@@ -44,7 +44,7 @@ I've mostly dealt with web dev (thru C#, Node.js and related frameworks, and Rus
 - [Pomodomo](https://github.com/js5253/pomodormo) - Physical, mainly C-based pomodoro timer. Attempts to replicate those TikTok timers where you can flip them to select the minutes. I'll post 3D CAD designs and schematics at some point.
 - [drp.rs](https://github.com/js5253/drp-rs) - desktop utility to share the music that is playing in your computer with the discord IPC socket. Uses Rust, and the companion extension, which gets metadata on Firefox and Chrome, uses Axum as well as Typescript.
 - [dict](https://github.com/js5253/pdf-tts-app) - desktop app that makes a spoken-text file from a PDF, ePub, or DOCX. Uses Tauri, Solid.js, and Rust.
-- [in development: sonictools](https://github.com/js5253/sonictools) - C# webapp with a bunch of tools for music-logging. (publishing Spotify liked songs, automated correction of last.fm songs via MusicBrainz, scrobbling to the website, etc.) Kinda like last.fm but with more features, self hostable, and open source. Uses C#, React, Redis, RustFS, and Postgres.
+<!-- - [in development: sonictools](https://github.com/js5253/sonictools) - C# webapp with a bunch of tools for music-logging. (publishing Spotify liked songs, automated correction of last.fm songs via MusicBrainz, scrobbling to the website, etc.) Kinda like last.fm but with more features, self hostable, and open source. Uses C#, React, Redis, RustFS, and Postgres. -->
 
 More stuff will be coming soon so like 👍, comment 💬, and subscribe 👤! 
 
